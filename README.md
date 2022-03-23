@@ -1,6 +1,6 @@
 # 日本語 
 ## HTMLeditor 
-htmlエディタです 適応を押すことで棒(hr)の上に完成品を表示します。 下の四角に名前を打ち込んでおいてください 
+htmlエディタです 適応を押すことで新しいタブで動きます。 下の四角に名前を打ち込んでおいてください 
 
 ファイルを選択でファイルの文字を開くことができます
 
@@ -28,11 +28,11 @@ ctrl+zまたはctrl+zボタンを押すとで戻る,ctrl+yまたはctrl+yボタ�
 
 decode,全解除ボタンは一度押すと encode,全選択ボタンになります
 
-https://sei2423.github.io/HTMLeditor/HTML%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC
-https://sei2423.github.io/HTMLeditor/HTML%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC.html
+https://sei2423.github.io/HTMLeditor/HTML%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%20ver22.3.23.html
+
 # English 
 ## HTMLeditor 
-html editor Press '適応' to display the finished product on the bar (hr). Please type in your name in the box below 
+html editor Press '適応' to move in a new tab. Please type in your name in the box below 
 
 You can open the characters in the file with choose file
 
@@ -60,5 +60,4 @@ Press 'ctrl + z' or 'ctrl + z' button to go back, press 'ctrl + y' or 'ctrl + y'
 
 The 'decode' and '全選択' buttons become 'encode' and '全解除' buttons once pressed.
 
-https://sei2423.github.io/HTMLeditor/HTML%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC
-https://sei2423.github.io/HTMLeditor/HTML%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC.html
+https://sei2423.github.io/HTMLeditor/HTML%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%20ver22.3.23.html
